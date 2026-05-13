@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "Dawn-CHCP-01",
+      "n": "3TLOqBooN8fjA0lKVNCR2K5oJQAzhSqO5220nKPIKgSss4KollkE8usFoh63Ats9vrQdff2IoF_W2zkiI_B5L7RvyBl0MEJNMMAeSICiv6hLFkX1CuS9gS8ybLF4suY3g7nWLYk8erh6At_Q9qQiWksCjBZR_7Kdz1X6y0cl0OMApEx8wVhr4FoK8qwDmYL5tf5EmjvijbH-Un_9V1wWmVBQLFeI6eUWJmpTCv2pIZUuLm8zhnG2z9URRKFBvVS545pyd-qNOJpxDgM1-JHqrTnOnnlKk-Pco464_OfTDjU8BM2hxskimDeI1c03HcKz6YkicX1ODSNbzVpptU1jdw",
+      "e": "AQAB"
+    }
+  ]
+}

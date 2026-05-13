@@ -1,2 +1,5 @@
-Access this file from public URL with
+Access this file from public URL with:
+
 https://raw.githubusercontent.com/CHCP-BI/PublicFiles/main/Test.txt
+
+https://chcp-bi.github.io/PublicFiles/Test.txt
